@@ -69,5 +69,5 @@ Upload an image file to process a note.
   "violence_check": "..."
 }
 ```
-<img width="1600" height="651" alt="image" src="https://github.com/user-attachments/assets/4895ac0d-6f04-49c5-9eb5-c906ba988729" />
+<img width="1592" height="640" alt="image" src="https://github.com/user-attachments/assets/3390d696-0841-4131-bb5b-85896bf4d7b4" />
 
